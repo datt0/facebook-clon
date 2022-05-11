@@ -1,0 +1,1030 @@
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+body {
+    overflow-y: scroll;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+    
+._li._li._li {
+    overflow: initial;
+}
+._3_s0._3_s0 {
+    border: 0;
+    display: flex;
+    -webkit-font-smoothing: antialiased;
+    height: 44px;
+    min-width: 600px;
+    position: relative;
+    text-align: left;
+    top: 0;
+    transition: top .3s, height .3s;
+    z-index: 301;
+}
+._3_s0._1toe {
+    height: 0;
+    overflow: hidden;
+}
+._3_s1._3_s0 {
+    background-color: #29487d;
+    color: #fff;
+}
+._3_s0 ._608m {
+    align-self: flex-end;
+    margin: 0 auto;
+    max-width: 981px;
+    min-width: 100px;
+    padding: 0 12px;
+    width: 100%;
+}
+._3_s0 ._tb6 {
+    align-items: center;
+    height: 44px;
+}
+
+._5aj7 {
+    display: flex;
+}
+._5aj7 ._4bl7 {
+    float: none;
+}
+
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+._3_s0 ._3bcv {
+    font: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+._50f3 {
+    font-size: 12px;
+    line-height: 16px;
+}
+.mrm {
+    margin-right: 10px;
+}
+._5aj7 ._4bl9 {
+    flex: 1 0 0px;
+}
+
+._3_s0 ._3bcp {
+    overflow: visible;
+}
+._4bl9 {
+    overflow: hidden;
+}
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+._3_s0 ._608n {
+    display: flex;
+}
+
+._6a {
+    display: inline-block;
+}
+._3bcs {
+    flex: 1 0 0px;
+}
+._2agf._4o_4 {
+    display: inline-flex;
+}
+
+._3_s1 ._3_s2 {
+    background: #29487d;
+    border-color: #29487d;
+}
+a._p {
+    display: block;
+}
+._42ft {
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+}
+._2agf {
+    word-wrap: normal;
+}
+._4jy3, ._4jy3._42fr:active, ._4jy3._42fr._42fs {
+    line-height: 22px;
+}
+._4jy1 {
+    background-color: #4267b2;
+    border-color: #4267b2;
+}
+._4jy1, ._9w8q, ._4jy2 {
+    color: #fff;
+}
+._4jy0 {
+    transition: 200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
+}
+._4jy0 {
+    border: 1px solid;
+    border-radius: 2px;
+    box-sizing: content-box;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+}
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+._55pe {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: top;
+    white-space: nowrap;
+}
+._3-99 {
+    margin-left: 4px;
+}
+.selected .sp_8s3dp67SKVi.sx_9e9cb0 {
+    background-position: -234px -251px;
+}
+.sp_8s3dp67SKVi.sx_9e9cb0 {
+    width: 9px;
+    height: 8px;
+    background-position: -243px -251px;
+}
+._4jy0 .img {
+    bottom: 1px;
+    position: relative;
+    vertical-align: middle;
+}
+i.img {
+    -ms-high-contrast-adjust: none;
+}
+.sp_8s3dp67SKVi {
+    background-image: url(/rsrc.php/v3/yP/r/52vld7hrDEO.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+user agent stylesheet
+i {
+    font-style: italic;
+}
+._5aj7 ._4bl7 {
+    float: none;
+}
+
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+.mlm {
+    margin-left: 10px;
+}
+.pll {
+    padding-left: 20px;
+}
+._3bct {
+    position: relative;
+}
+._3_s0 ._3bcy {
+    line-height: 24px;
+}
+
+._6a {
+    display: inline-block;
+}
+._3_s1 ._3bcz {
+    background: #fff;
+    color: #000;
+}
+
+._3_s0 ._3bcz {
+    border-radius: 4px;
+    padding: 1px 4px;
+}
+._3_s1 ._3bcz {
+    background: #fff;
+    color: #000;
+}
+
+._3_s0 ._3bcz {
+    border-radius: 4px;
+    padding: 1px 4px;
+}
+#globalContainer {
+    margin: 0 auto;
+    position: relative;
+    zoom: 1;
+}
+
+.uiContextualLayerParent {
+    position: relative;
+}
+#content {
+    margin: 0;
+    outline: none;
+    padding: 0;
+    width: auto;
+}
+.fb_content {
+    min-height: 640px;
+    padding-bottom: 20px;
+}
+.clearfix {
+    zoom: 1;
+}
+._95kb {
+    padding-bottom: 132px;
+    padding-top: 92px;
+}
+
+._8icx {
+    padding-top: 82px;
+}
+._95k9 {
+    background: #f0f2f5;
+    min-width: 500px;
+}
+._5aj7 {
+    display: flex;
+}
+._m-- {
+    margin: auto;
+    width: 980px;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+#facebook ._ihf {
+    overflow: visible;
+    padding-right: 48px;
+    position: relative;
+}
+._5aj7 ._4bl9 {
+    flex: 1 0 0px;
+}
+._4bl9 {
+    overflow: hidden;
+}
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+#facebook ._95kc._8icx ._8ice {
+    padding: 8px 0 16px 0;
+}
+
+#facebook ._8icx ._8ice {
+    padding: 0 0 24px;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+._8icx ._8ilh {
+    height: 70px;
+    margin: -20px;
+}
+
+img {
+    border: 0;
+}
+#facebook ._95kc._8icx ._8ice {
+    padding: 8px 0 16px 0;
+}
+#facebook ._8icx ._8ice {
+    padding: 0 0 24px;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+#facebook ._95kc ._8e63 {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+}
+
+#facebook ._8esf ._8e63 {
+    color: #1c1e21;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 38px;
+    margin-bottom: 0;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+#facebook ._ihd {
+    font-size: 36px;
+}
+._6s {
+    color: #333;
+}
+#facebook ._95kc ._8e4l {
+    padding-bottom: 12px;
+}
+#facebook ._8esf ._8e4l {
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+._mf {
+    font-weight: normal;
+}
+._6s {
+    color: #333;
+}
+._6o {
+    font-size: 19px;
+    line-height: 126%;
+}
+.mbl {
+    margin-bottom: 20px;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+
+#facebook ._45ks {
+    display: flex;
+    flex-wrap: wrap;
+}
+#facebook ._63fz {
+    flex: 0 0 33.3333%;
+    margin: 0 0 20px 0;
+}
+._csi {
+    width: 160px;
+}
+
+.uiContextualLayerParent {
+    position: relative;
+}
+#facebook ._63fz {
+    flex: 0 0 33.3333%;
+    margin: 0 0 20px 0;
+}
+._95l5 ._1gbd {
+    border-radius: 8px;
+}
+
+._1gbd {
+    border-radius: 4px;
+    box-shadow: 0 0 0 1px #dddfe2;
+    display: block;
+    transition: all .2s ease-out;
+}
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+._95l5 ._1gax {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+._1gax {
+    align-items: center;
+    background-color: #f5f6f7;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    display: flex;
+    height: 160px;
+    justify-content: center;
+    width: 160px;
+}
+.sp_-Ww9-2lZPiS.sx_0a3398 {
+    background-position: 0 0;
+}
+
+i.img {
+    -ms-high-contrast-adjust: none;
+}
+.sp_-Ww9-2lZPiS {
+    background-image: url(/rsrc.php/v3/y6/r/NqXxvQhN4tE.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 42px;
+    width: 42px;
+}
+#facebook ._8esf ._1gaz {
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+}
+
+#facebook ._-kb div {
+    font-family: inherit;
+}
+._95l5 ._1gaz {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 12px;
+    width: 136px;
+}
+._95l4 ._1ga- {
+    color: #1877f2;
+}
+._1ga- {
+    white-space: normal;
+}
+._1gaz {
+    background-color: #fff;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    overflow: hidden;
+    padding: 12px 0;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 160px;
+}
+._50f6 {
+    font-size: 18px;
+    line-height: 22px;
+}
+._5aj7 ._4bl7 {
+    float: none;
+}
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+._8iep {
+    height: 456px;
+    width: 396px;
+}
+._8icy ._6luv {
+    padding-bottom: 24px;
+    padding-top: 10px;
+}
+
+._52jv {
+    text-align: center;
+}
+._6luv {
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+}
+form {
+    margin: 0;
+    padding: 0;
+}
+
+user agent stylesheet
+form {
+    display: block;
+    margin-top: 0em;
+}
+#facebook ._-kb button, #facebook ._-kb input, #facebook ._-kb label, #facebook ._-kb select, #facebook ._-kb td, #facebook ._-kb textarea {
+    font-family: inherit;
+}
+
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+input, select, textarea {
+    background-color: #fff;
+    color: #1c1e21;}
+    #facebook ._-kb button, #facebook ._-kb input, #facebook ._-kb label, #facebook ._-kb select, #facebook ._-kb td, #facebook ._-kb textarea {
+        font-family: inherit;
+    }
+    body, button, input, label, select, td, textarea {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    input, select, textarea {
+        background-color: #fff;
+        color: #1c1e21;
+    }
+    ._8icy ._6lux {
+        font-size: 17px;
+        width: 364px;
+    }
+    
+    ._6lux {
+        display: inline-block;
+        font-size: 14px;
+        margin: auto;
+        padding: 6px 0;
+        width: 302px;
+    }
+    #facebook ._-kb button, #facebook ._-kb input, #facebook ._-kb label, #facebook ._-kb select, #facebook ._-kb td, #facebook ._-kb textarea {
+        font-family: inherit;
+    }
+    
+    ._8icy ._6lux ._6luy, ._9aha ._6lux ._6luy {
+        border-radius: 6px;
+    }
+    ._8icy ._6lux ._6luy {
+        font-size: 17px;
+        padding: 14px 16px;
+        width: 330px;
+    }
+    ._6lux ._6luy {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    html ._55r1 {
+        background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+        border: 1px solid #dddfe2;
+        color: #1d2129;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        height: 22px;
+        line-height: 16px;
+        padding: 0 8px;
+        vertical-align: middle;
+    }
+    .inputtext, .inputpassword {
+        padding-bottom: 4px;
+    }
+    textarea, .inputtext, .inputpassword {
+        -webkit-appearance: none;
+        border: 1px solid #ccd0d5;
+        border-radius: 0;
+        margin: 0;
+        padding: 3px;
+    }
+    body, button, input, label, select, td, textarea {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    ._8icy ._6lux {
+        font-size: 17px;
+        width: 364px;
+    }
+    
+    ._6lux {
+        display: inline-block;
+        font-size: 14px;
+        margin: auto;
+        padding: 6px 0;
+        width: 302px;
+    }
+    ._8icy ._6lux ._6luy, ._9aha ._6lux ._6luy {
+        border-radius: 6px;
+    }
+    ._8icy ._6lux ._6luy {
+        font-size: 17px;
+        padding: 14px 16px;
+        width: 330px;
+    }
+    html ._1kbt._1kbt {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    ._6lux ._6luy {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    html ._55r1 {
+        background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+        border: 1px solid #dddfe2;
+        color: #1d2129;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        height: 22px;
+        line-height: 16px;
+        padding: 0 8px;
+        vertical-align: middle;
+    }
+    ._9nyh {
+        border-color: #dddfe2;
+        box-shadow: none;
+        caret-color: none;
+    }
+    #facebook ._9npi {
+        background: none;
+        border: 0;
+        box-shadow: none;
+        float: left;
+        font-size: 17px;
+        padding: 0;
+        width: 300px;
+    }
+    ._8icy ._6lux ._6luy, ._9aha ._6lux ._6luy {
+        border-radius: 6px;
+    }
+    ._8icy ._6lux ._6luy {
+        font-size: 17px;
+        padding: 14px 16px;
+        width: 330px;
+    }
+    ._6lux ._6luy {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    html ._55r1 {
+        background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+        border: 1px solid #dddfe2;
+        color: #1d2129;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        height: 22px;
+        line-height: 16px;
+        padding: 0 8px;
+        vertical-align: middle;
+    }
+    .inputtext, .inputpassword {
+        padding-bottom: 4px;
+    }
+    textarea, .inputtext, .inputpassword {
+        -webkit-appearance: none;
+        border: 1px solid #ccd0d5;
+        border-radius: 0;
+        margin: 0;
+        padding: 3px;
+    }
+    body, button, input, label, select, td, textarea {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    input, select, textarea {
+        background-color: #fff;
+        color: #1c1e21;
+    }
+    user agent stylesheet
+    input[type="password" i] {
+        -webkit-text-security: disc !important;
+        padding: 1px 2px;
+    }
+    user agent stylesheet
+    input {
+        writing-mode: horizontal-tb !important;
+        text-rendering: auto;
+        color: -internal-light-dark(black, white);
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        appearance: auto;
+        -webkit-rtl-ordering: logical;
+        cursor: text;
+        background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+        margin: 0em;
+        padding: 1px 2px;
+        border-width: 2px;
+        border-style: inset;
+        border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+        border-image: initial;
+    }
+    #facebook .hidden_elem {
+        display: none!important;
+    }
+    
+    ._9ls7 {
+        position: relative;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+    }
+    ._8icy ._6lux ._6luy {
+        font-size: 17px;
+        padding: 14px 16px;
+        width: 330px;
+    }
+    html ._1kbt._1kbt {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    ._6lux ._6luy {
+        font-size: 14px;
+        padding: 5px 8px;
+        width: 284px;
+    }
+    html ._55r1 {
+        background: #FFFFFF url(/rsrc.php/v3/yO/r/YQNfPR9MJfx.png) repeat-x;
+        border: 1px solid #dddfe2;
+        color: #1d2129;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        height: 22px;
+        line-height: 16px;
+        padding: 0 8px;
+        vertical-align: middle;
+    }
+    a {
+        color: #385898;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    user agent stylesheet
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    ._9lsa {
+        border-radius: 50%;
+        bottom: -25px;
+        height: 28px;
+        position: absolute;
+        right: -8px;
+        width: 28px;
+    }
+    ._9lsb {
+        bottom: 6px;
+        height: 16px;
+        position: absolute;
+        right: 6px;
+        width: 16px;
+    }
+    
+    ._9ls8 {
+        background: url(/rsrc.php/v3/yZ/r/je5FEJkU1_K.png);
+    }
+    #facebook ._-kb button, #facebook ._-kb input, #facebook ._-kb label, #facebook ._-kb select, #facebook ._-kb td, #facebook ._-kb textarea {
+        font-family: inherit;
+    }
+    
+    body, button, input, label, select, td, textarea {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+    }
+    input, select, textarea {
+        background-color: #fff;
+        color: #1c1e21;
+    }
+    user agent stylesheet
+    input[type="hidden" i] {
+        appearance: none;
+        background-color: initial;
+        cursor: default;
+        display: none !important;
+        padding: initial;
+        border: initial;
+    }
+    user agent stylesheet
+    input {
+        writing-mode: horizontal-tb !important;
+        text-rendering: auto;
+        color: -internal-light-dark(black, white);
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        appearance: auto;
+        -webkit-rtl-ordering: logical;
+        cursor: text;
+        background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+        margin: 0em;
+        padding: 1px 2px;
+        border-width: 2px;
+        border-style: inset;
+        border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+        border-image: initial;
+    }  
+    ._6ltg {
+        padding-top: 6px;
+    }
+    ._8icy ._6lth {
+        background-color: #1877f2;
+        border: none;
+        border-radius: 6px;
+        font-size: 20px;
+        line-height: 48px;
+        padding: 0 16px;
+        width: 332px;
+    }
+    
+    ._42ft {
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        white-space: nowrap;
+    }
+    ._4jy6, ._4jy6._42fr:active, ._4jy6._42fr._42fs {
+        line-height: 42px;
+        padding: 0 24px;
+    }
+    ._4jy1 {
+        background-color: #4267b2;
+        border-color: #4267b2;
+    }
+    ._4jy1, ._9w8q, ._4jy2 {
+        color: #fff;
+    }
+    ._4jy0 {
+        transition: 200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
+    }
+    ._4jy0 {
+        border: 1px solid;
+        border-radius: 2px;
+        box-sizing: content-box;
+        font-size: 12px;
+        -webkit-font-smoothing: antialiased;
+        font-weight: bold;
+        justify-content: center;
+        padding: 0 8px;
+        position: relative;
+        text-align: center;
+        text-shadow: none;
+        vertical-align: middle;
+    }
+    ._6lth {
+        font-size: 14px;
+        width: 252px;
+    }
+    button {
+        margin: 0;
+    }
+    ._8icy ._6ltj {
+        margin-top: 16px;
+    }
+    
+    ._6ltj {
+        margin-top: 12px;
+    }
+    ._8icy ._6ltj a {
+        color: #1877f2;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    
+    a {
+        color: #385898;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    user agent stylesheet
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    ._8icy ._8icz {
+        align-items: center;
+        border-bottom: 1px solid #dadde1;
+        display: flex;
+        margin: 20px 16px;
+        text-align: center;
+    }
+    ._6ltg {
+        padding-top: 6px;
+    }
+    ._8icy ._6lti {
+        border: none;
+        border-radius: 6px;
+        font-size: 17px;
+        line-height: 48px;
+        padding: 0 16px;
+    }
+    ._42ft {
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        white-space: nowrap;
+    }
+    ._4jy6, ._4jy6._42fr:active, ._4jy6._42fr._42fs {
+        line-height: 42px;
+        padding: 0 24px;
+    }
+    ._4jy2 {
+        background-color: #42b72a;
+        border-color: #42b72a;
+    }
+    ._4jy1, ._9w8q, ._4jy2 {
+        color: #fff;
+    }
+    ._4jy0 {
+        transition: 200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
+    }
+    ._4jy0 {
+        border: 1px solid;
+        border-radius: 2px;
+        box-sizing: content-box;
+        font-size: 12px;
+        -webkit-font-smoothing: antialiased;
+        font-weight: bold;
+        justify-content: center;
+        padding: 0 8px;
+        position: relative;
+        text-align: center;
+        text-shadow: none;
+        vertical-align: middle;
+    }
+    ._6lti {
+        font-size: 14px;
+    }
+    a {
+        color: #385898;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    user agent stylesheet
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    #facebook ._8esf ._58mk {
+        border-top: none;
+        color: #1c1e21;
+        font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        padding-top: 0;
+    }
+    #facebook ._-kb div {
+        font-family: inherit;
+    }
+    ._8ilg ._58mk, ._8icx ._58mk {
+        margin-top: 28px;
+        text-align: center;
+    }
+    ._8f3m ._58mk {
+        margin-top: 42px;
+        text-align: center;
+    }
+    ._58mk {
+        border-top: 1px solid #dddfe2;
+        color: #666;
+        font-size: 13px;
+        font-weight: bold;
+        margin-top: 10px;
+        padding-top: 15px;
+    }
+    #facebook ._8esf ._8esh {
+        font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    
+    #facebook ._-kb a {
+        font-family: inherit;
+    }
+    ._8f3m ._8esh {
+        color: inherit;
+    }
+    a {
+        color: #385898;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    user agent stylesheet
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
